@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scholarship Finder India</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Basic SEO -->
+    <meta name="description" content="Find Indian government and private scholarships by state, class, category and income.">
+    <meta name="keywords" content="scholarship, india, student, govt schemes, yojana, education">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="top-links">
+        <span class="active">Home</span> ›
+        <a href="yojana.html">Yojana Finder</a> ›
+        <a href="about.html">About</a> ›
+        <a href="contact.html">Contact</a> ›
+        <a href="privacy.html">Privacy</a>
+    </div>
+
+    <!-- HERO SECTION -->
+    <header class="hero">
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <h1>
+                    Scholarship Finder
+                    <span class="hero-accent">India</span>
+                </h1>
+                <p class="hero-subtitle">
+                    Find the best
+                    <span class="animated-words">
+                        <span id="animatedWord"></span>
+                    </span>
+                    for you.
+                </p>
+                <p class="hero-tagline">
+                    Filter by class, state, category and income in one place. 
+                    No confusion, only verified links.
+                </p>
+                <a href="#filters" class="cta-btn">Start Finding Scholarships</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- FILTERS -->
+                <!-- FILTERS -->
+               <!-- FILTERS -->
+        <section id="filters" class="filters">
+            <h2>Filter Scholarships</h2>
+
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label for="stateSelect">State</label>
+                    <select id="stateSelect">
+                        <option value="">All States</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                   <label for="classSelect">Class / Course</label>
+<select id="classSelect">
+    <option value="">Any Class</option>
+    <option value="9">Class 9</option>
+    <option value="10">Class 10</option>
+    <option value="11">Class 11</option>
+    <option value="12">Class 12</option>
+    <option value="ug">Undergraduate</option>
+    <option value="pg">Postgraduate</option>
+</select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="categorySelect">Category</label>
+                    <select id="categorySelect">
+                        <option value="">All</option>
+                        <option value="GEN">GEN</option>
+                        <option value="OBC">OBC</option>
+                        <option value="SC">SC</option>
+                        <option value="ST">ST</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="incomeSelect">Family Income (max)</label>
+                    <select id="incomeSelect">
+                        <option value="">Any</option>
+                        <option value="200000">₹2,00,000</option>
+                        <option value="500000">₹5,00,000</option>
+                        <option value="800000">₹8,00,000</option>
+                    </select>
+                </div>
+
+                <div class="filter-actions">
+                    <button id="filterBtn">Search Scholarships</button>
+                </div>
+            </div>
+        </section>
+        <!-- RESULTS -->
+        <section id="results">
+            <h2>Scholarship Results</h2>
+            <p id="resultsCount" class="results-count"></p>
+            <p class="results-note">
+                Always verify details on the official website before applying.
+            </p>
+            <div id="resultsList"></div>
+        </section>
+        <section class="page-section">
+    <h2>Popular Detailed Guides (2025)</h2>
+    <p style="font-size:13px; color:#9ca3af;">
+        In guides me step‑by‑step information hai – eligibility, documents, last date aur apply process.
+    </p>
+       <ul>
+    <li><a href="up-scholarship-2025.html">UP Scholarship 2025 – Pre &amp; Post Matric</a></li>
+    <li><a href="central-sector-scholarship-2025.html">Central Sector Scholarship 2025 – College &amp; University</a></li>
+    <li><a href="nmms-scholarship-2025.html">NMMS Scholarship 2025 – Class 8, 9 &amp; 10</a></li>
+    <li><a href="minority-scholarship-2025.html">Minority Scholarship 2025 – Pre &amp; Post Matric</a></li>
+    <li><a href="pragati-scholarship-2025.html">Pragati Scholarship 2025 – AICTE Girls</a></li>
+    <li><a href="inspire-scholarship-2025.html">INSPIRE Scholarship 2025 – SHE</a></li>
+    <li><a href="bihar-kanya-utthan-2025.html">Bihar Kanya Utthan Yojana 2025 – Graduation Girls</a></li>
+    <li><a href="mp-medhavi-yojana-2025.html">MP Medhavi Vidyarthi Yojana 2025</a></li>
+    <li><a href="maharashtra-open-merit-2025.html">Maharashtra Open Merit Scholarship 2025</a></li>
+</ul>
+</section>
+            
+    </main>
+
+    <footer>
+    <p>© <span id="year"></span> Scholarship Finder India. For information only. Always verify details on official portals.</p>
+    <p>
+        <a href="index.html">Home</a> |
+        <a href="yojana.html">Yojana Finder</a> |
+        <a href="about.html">About</a> |
+        <a href="contact.html">Contact</a> |
+        <a href="privacy.html">Privacy Policy</a>
+    </p>
+</footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>

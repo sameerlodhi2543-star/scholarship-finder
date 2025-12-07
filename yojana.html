@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yojana Finder – Government Schemes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Find Indian government schemes (yojanas) by state and beneficiary type.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="top-links">
+        <a href="index.html">Home</a> ›
+        <span class="active">Yojana Finder</span> ›
+        <a href="about.html">About</a> ›
+        <a href="contact.html">Contact</a> ›
+        <a href="privacy.html">Privacy</a>
+    </div>
+
+    <main>
+        <!-- yojana page ka content yahin se start hota rahe -->
+    <main>
+        <h1>Yojana Finder (Government Schemes)</h1>
+        <p>
+            Yaha aap basic filters ke through important government schemes dekh sakte hain.
+            Hamesha apply karne se pehle official website par details verify karein.
+        </p>
+
+        <!-- YOJANA FILTERS -->
+        <section class="filters">
+            <h2>Filter Yojanas</h2>
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label for="yStateSelect">State</label>
+                    <select id="yStateSelect">
+                        <option value="">All States</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="yBeneficiarySelect">Beneficiary Type</label>
+                    <select id="yBeneficiarySelect">
+                        <option value="">All</option>
+                        <option value="Farmer">Farmer</option>
+                        <option value="Women">Women / Girl Child</option>
+                        <option value="Family">Family</option>
+                        <option value="Business">Business / Self-employed</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="yIncomeSelect">Family Income (max)</label>
+                    <select id="yIncomeSelect">
+                        <option value="">Any</option>
+                        <option value="200000">₹2,00,000</option>
+                        <option value="500000">₹5,00,000</option>
+                        <option value="800000">₹8,00,000</option>
+                    </select>
+                </div>
+
+                <div class="filter-actions">
+                    <button id="yFilterBtn">Search Yojanas</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- YOJANA RESULTS -->
+        <section id="yojanaResultsSection">
+            <h2>Yojana Results</h2>
+            <p id="yojResultsCount" class="results-count"></p>
+            <div id="yojResultsList"></div>
+        </section>
+                <section class="page-section">
+            <h2>Popular Yojana Guides (2025)</h2>
+            <p style="font-size:13px; color:#9ca3af;">
+                In guides me important yojanas ka overview, eligibility aur official links simple language me diye gaye hain.
+                Form fill karne se pehle inhe ek baar padh lena useful rahega.
+            </p>
+            <ul>
+                <li>
+                    <a href="pm-kisan-2025.html">
+                        PM Kisan Samman Nidhi 2025 – Full Simple Guide
+                    </a>
+                </li>
+                <li>
+                    <a href="pmay-2025.html">
+                        PM Awas Yojana 2025 – Urban &amp; Gramin Overview
+                    </a>
+                </li>
+                <li>
+                    <a href="pm-ujjwala-2025.html">
+                        PM Ujjwala Yojana 2025 – Free LPG Connection Scheme
+                    </a>
+                </li>
+                <li>
+                    <a href="rythu-bandhu-2025.html">
+                        Rythu Bandhu 2025 – Telangana Farmer Support
+                    </a>
+                </li>
+                <li>
+                    <a href="amma-vodi-2025.html">
+                        Amma Vodi 2025 – Andhra Pradesh Education Support
+                    </a>
+                </li>
+                <li>
+                    <a href="lakshmir-bhandar-2025.html">
+                        Lakshmir Bhandar 2025 – West Bengal Women Income Support
+                    </a>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© <span id="year"></span> Scholarship Finder India. For information only. Always verify details on official portals.</p>
+        <p>
+            <a href="index.html">Home</a> |
+            <a href="yojana.html">Yojana Finder</a> |
+            <a href="about.html">About</a> |
+            <a href="contact.html">Contact</a> |
+            <a href="privacy.html">Privacy Policy</a>
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="yojana.js"></script>
+</body>
+</html>
