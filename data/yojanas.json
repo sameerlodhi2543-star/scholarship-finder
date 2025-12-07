@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-Kisan)",
+    "description": "Chhote aur madhyam kisanon ko har saal teen kiston me nirdharit rashi di jati hai jo seed, khaad, diesel jaise kharchon me madad karti hai.",
+    "state": "All India",
+    "beneficiaries": ["Farmer"],
+    "incomeMax": 0,
+    "category": "Income support for small and marginal farmers",
+    "officialLink": "https://pmkisan.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana (Urban/Gramin)",
+    "description": "Shehri aur gramin gareeb parivaron ko pakka ghar banane ya sudharne ke liye financial assistance.",
+    "state": "All India",
+    "beneficiaries": ["Family"],
+    "incomeMax": 600000,
+    "category": "Housing support for economically weaker families",
+    "officialLink": "https://pmaymis.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "description": "BPL family ki mahila ke naam par free LPG connection provide karne ki yojana, taaki ghar me clean cooking fuel use ho sake.",
+    "state": "All India",
+    "beneficiaries": ["Women", "Family"],
+    "incomeMax": 0,
+    "category": "Clean cooking fuel for low-income households",
+    "officialLink": "https://www.pmuy.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "description": "Gambhir bimari ke liye gareeb parivaron ko har saal ek fixed limit tak cashless treatment cover provide kiya jata hai empanelled hospitals me.",
+    "state": "All India",
+    "beneficiaries": ["Family"],
+    "incomeMax": 0,
+    "category": "Health insurance for poor and vulnerable families",
+    "officialLink": "https://pmjay.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "description": "Ladki ke naam se long-term deposit account jisme parents fixed amount jama karke future education aur marriage ke liye fund bana sakte hain.",
+    "state": "All India",
+    "beneficiaries": ["Women"],
+    "incomeMax": 0,
+    "category": "Savings scheme for girl child",
+    "officialLink": "https://www.indiapost.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (Shishu/Kishor/Tarun)",
+    "description": "Chhote vyapaar, dukaan, self-employed logon ke liye business shuru ya expand karne ke liye collateral-free loan facility.",
+    "state": "All India",
+    "beneficiaries": ["Business"],
+    "incomeMax": 0,
+    "category": "Micro credit for small businesses",
+    "officialLink": "https://www.mudra.org.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Atal Pension Yojana (APY)",
+    "description": "Unorganised sector ke workers ke liye retirement ke baad fixed pension dene wali contributory pension scheme.",
+    "state": "All India",
+    "beneficiaries": ["Family"],
+    "incomeMax": 0,
+    "category": "Pension scheme for unorganised workers",
+    "officialLink": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Telangana Rythu Bandhu Scheme",
+    "description": "Telangana ke registered kisanon ko har cropping season per acre input assistance di jati hai taaki beej, khaad, pesticides ka kharcha nikal sake.",
+    "state": "Telangana",
+    "beneficiaries": ["Farmer"],
+    "incomeMax": 0,
+    "category": "Per-acre financial support for farmers",
+    "officialLink": "https://rythubandhu.telangana.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Andhra Pradesh Jagananna Amma Vodi",
+    "description": "Andhra Pradesh me gareeb families ki mothers/guardians ko har saal amount diya jata hai taaki unke bachche school/college me padhai jaari rakh saken.",
+    "state": "Andhra Pradesh",
+    "beneficiaries": ["Women", "Family"],
+    "incomeMax": 0,
+    "category": "Financial assistance to mothers for children education",
+    "officialLink": "https://jaganannaammavodi.ap.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "MP Mukhyamantri Kisan Anudan Yojana",
+    "description": "Madhya Pradesh ke kisanon ko krishi yantra (tractor, power tiller, irrigation pump wagairah) kharidne par subsidy di jati hai.",
+    "state": "Madhya Pradesh",
+    "beneficiaries": ["Farmer"],
+    "incomeMax": 0,
+    "category": "Subsidy for farm equipment purchase",
+    "officialLink": "https://saara.mp.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Maharashtra Bal Sangopan Yojana",
+    "description": "Maharashtra me economic difficulty ki wajah se apne bachchon ka palan-poshan karne me pareshaan parivaron ko per child monthly financial support diya jata hai.",
+    "state": "Maharashtra",
+    "beneficiaries": ["Family"],
+    "incomeMax": 360000,
+    "category": "Child welfare support for low-income families",
+    "officialLink": "https://womenchild.maharashtra.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Rajasthan Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
+    "description": "Rajasthan ke families ko government empanelled hospitals me cashless treatment cover (health insurance) provide karne wali scheme.",
+    "state": "Rajasthan",
+    "beneficiaries": ["Family"],
+    "incomeMax": 0,
+    "category": "State-level health insurance scheme",
+    "officialLink": "https://chiranjeevi.rajasthan.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "West Bengal Lakshmir Bhandar Scheme",
+    "description": "West Bengal ki women heads of family ke liye monthly financial assistance, mainly SC/ST/General poor households ke liye.",
+    "state": "West Bengal",
+    "beneficiaries": ["Women", "Family"],
+    "incomeMax": 0,
+    "category": "Income support scheme for women",
+    "officialLink": "https://wb.gov.in/government-schemes.aspx",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Bihar Mukhyamantri Kanya Utthan Yojana (Birth to Graduation)",
+    "description": "Bihar me ladkiyon ke liye different stages (birth se graduation completion tak) par financial assistance – school uniform, sanitary napkins, graduation incentive, etc.",
+    "state": "Bihar",
+    "beneficiaries": ["Women"],
+    "incomeMax": 0,
+    "category": "Comprehensive support scheme for girl child",
+    "officialLink": "https://ekalyan.bih.nic.in/",
+    "image": "images/default-scholarship.jpg"
+  }
+]

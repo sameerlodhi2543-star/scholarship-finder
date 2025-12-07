@@ -1,0 +1,134 @@
+[
+  {
+    "name": "UP Scholarship 2025 – Post Matric (SC/ST/OBC)",
+    "description": "Uttar Pradesh ke SC, ST aur OBC students ke liye 11th, 12th, graduation aur post‑graduation courses par fee reimbursement / maintenance allowance. Ye sabse popular scholarship me se ek hai.",
+    "state": "Uttar Pradesh",
+    "classLevels": ["11", "12", "ug", "pg"],
+    "category": ["SC", "ST", "OBC"],
+    "incomeMax": 250000,
+    "lastDate": "2025-12-31",
+    "officialLink": "https://scholarship.up.gov.in/",
+    "image": "images/sch1_up_post_matric.jpg"
+  },
+  {
+    "name": "NMMS Scholarship 2025 – National Means‑cum‑Merit",
+    "description": "Class 9–10 ke economically weaker, meritorious students ke liye all India level par central scheme. 9th se 12th tak har saal fixed amount milta hai. Har state ke students iske baare me search karte hain.",
+    "state": "All India",
+    "classLevels": ["9", "10"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 350000,
+    "lastDate": "2025-09-30",
+    "officialLink": "https://www.education.gov.in/",
+    "image": "images/sch2_nmms.jpg"
+  },
+  {
+    "name": "Central Sector Scholarship 2025 – College & University",
+    "description": "12th board me high percentage lane wale students ke liye central government scholarship jo graduation aur post‑graduation ke liye di jati hai. Isko log “Central Sector 2025” naam se bahut search karte hain.",
+    "state": "All India",
+    "classLevels": ["ug", "pg"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 800000,
+    "lastDate": "2025-10-31",
+    "officialLink": "https://scholarships.gov.in/",
+    "image": "images/sch3_central_sector.jpg"
+  },
+  {
+    "name": "Minority Pre‑Matric Scholarship 2025 (Class 9‑10)",
+    "description": "Minority community (Muslim, Christian, Sikh, Buddhist, Jain, Parsi) ke class 9–10 students ke liye admission fee aur tuition fee support. ‘Minority scholarship 9th 10th’ search kaafi hota hai.",
+    "state": "All India",
+    "classLevels": ["9", "10"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 1000000,
+    "lastDate": "2025-08-31",
+    "officialLink": "https://scholarships.gov.in/",
+    "image": "images/up-pre-2025.jpg"
+  },
+  {
+    "name": "Minority Post‑Matric Scholarship 2025 (11th–PG)",
+    "description": "Minority community ke 11th, 12th, diploma, technical, professional, UG aur PG students ke liye fee reimbursement aur maintenance allowance. ‘Minority scholarship 2025’ ke liye ye main scheme hai.",
+    "state": "All India",
+    "classLevels": ["11", "12", "ug", "pg"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 2000000,
+    "lastDate": "2025-11-30",
+    "officialLink": "https://scholarships.gov.in/",
+    "image": "images/sch5_post_matric_minority.jpg"
+  },
+  {
+    "name": "Pragati Scholarship 2025 – AICTE Girls",
+    "description": "Engineering / technical diploma ya degree course me admission lene wali ladkiyon ke liye AICTE ki Pragati scholarship. ‘Scholarship for girls 2025’ type queries me ye sabse top scheme hai.",
+    "state": "All India",
+    "classLevels": ["ug"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 800000,
+    "lastDate": "2025-09-15",
+    "officialLink": "https://www.aicte-india.org/",
+    "image": "images/sch6_pragati_girls.jpg"
+  },
+  {
+    "name": "Saksham Scholarship 2025 – AICTE Divyang",
+    "description": "AICTE approved diploma / degree technical courses me padhne wale specially‑abled (divyang) students ke liye Saksham scholarship. ‘Scholarship for disabled students’ wale search ke liye useful hai.",
+    "state": "All India",
+    "classLevels": ["ug"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 800000,
+    "lastDate": "2025-09-15",
+    "officialLink": "https://www.aicte-india.org/",
+    "image": "images/sch7_saksham_aicte.jpg"
+  },
+  {
+    "name": "INSPIRE Scholarship 2025 – SHE (Science Students)",
+    "description": "Science stream se 12th me high marks laane wale, BSc/BS/integrated MSc courses me admission lene wale students ke liye DST ki INSPIRE SHE scholarship. ‘Scholarship for BSc students 2025’ ke liye strong topic.",
+    "state": "All India",
+    "classLevels": ["ug"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 0,
+    "lastDate": "2025-11-30",
+    "officialLink": "https://online-inspire.gov.in/",
+    "image": "images/sch8_inspire_she.jpg"
+  },
+  {
+    "name": "UP Scholarship 2025 – Pre‑Matric (Class 9‑10)",
+    "description": "Uttar Pradesh ke 9th–10th ke students (SC, ST, OBC, Minority, General) ke liye pre‑matric scholarship. Log ‘UP scholarship 9th 10th 2025’ naam se bahut search karte hain.",
+    "state": "Uttar Pradesh",
+    "classLevels": ["9", "10"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 100000,
+    "lastDate": "2025-11-30",
+    "officialLink": "https://scholarship.up.gov.in/",
+    "image": "images/default-scholarship.jpg"
+  },
+  {
+    "name": "Bihar Kanya Utthan Yojana 2025 – Graduation Girls",
+    "description": "Bihar me graduation pass ladkiyon ke liye ek‑baar ka financial incentive. ‘Bihar graduation girl scholarship 2025’ type searches ke liye highly demanded topic.",
+    "state": "Bihar",
+    "classLevels": ["ug"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 0,
+    "lastDate": "2025-12-31",
+    "officialLink": "https://ekalyan.bih.nic.in/",
+    "image": "images/bihar-kanya-2025.jpg"
+  },
+  {
+    "name": "MP Medhavi Vidyarthi Yojana 2025",
+    "description": "Madhya Pradesh ke 12th me high score lane wale students ke liye graduation fees support (engineering, medical, law, other degree courses). ‘MP Medhavi scholarship 2025’ search me bahut volume hai.",
+    "state": "Madhya Pradesh",
+    "classLevels": ["ug"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 600000,
+    "lastDate": "2025-09-30",
+    "officialLink": "https://scholarshipportal.mp.nic.in/",
+    "image": "images/mp-medhavi-2025.jpg"
+  },
+  {
+    "name": "Maharashtra Open Merit Scholarship 2025 (10th/12th)",
+    "description": "Maharashtra board ke 10th ya 12th me high marks lane wale students ke liye open merit scholarship jo further study ke liye di jati hai.",
+    "state": "Maharashtra",
+    "classLevels": ["10", "12"],
+    "category": ["GEN", "OBC", "SC", "ST"],
+    "incomeMax": 0,
+    "lastDate": "2025-08-31",
+    "officialLink": "https://mahadbt.maharashtra.gov.in/",
+    "image": "images/sch10_maha_open_merit.jpg"
+  }
+]
