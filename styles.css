@@ -558,4 +558,9 @@ footer {
     .up-hero-subtitle {
         font-size: 13px;
     }
+
+}
+.ad-block {
+    margin: 12px 0;
+    text-align: center;
 }
